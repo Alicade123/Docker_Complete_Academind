@@ -2,7 +2,7 @@
 
 ##Set up
 
-````bash
+```bash
 npm init -y
 npm install express
 ```
@@ -11,7 +11,7 @@ npm install express
 ```bash
 docker build .
 docker run -p 3000:3000 my-express-app
-````
+```
 
 ## Alternatives
 
